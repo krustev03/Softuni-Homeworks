@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\bin\Debug\Alcohol-Market.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\bin\Debug\Alcohol-Market.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\bin\Debug\Alcohol-Market.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\obj\Debug\Alcohol-Market.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\obj\Debug\Alcohol-Market.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\obj\Debug\Alcohol-Market.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Alcohol-Market\obj\Debug\Alcohol-Market.pdb

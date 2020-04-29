@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\bin\Debug\USD-to-BGN.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\bin\Debug\USD-to-BGN.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\bin\Debug\USD-to-BGN.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\obj\Debug\USD-to-BGN.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\obj\Debug\USD-to-BGN.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\obj\Debug\USD-to-BGN.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\USD-to-BGN\obj\Debug\USD-to-BGN.pdb

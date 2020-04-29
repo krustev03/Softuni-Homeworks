@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcohol-Market", "Alcohol-Market\Alcohol-Market.csproj", "{D9825A19-C0D1-4C30-B34E-ABF3E412EB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D-Rectangle-Area", "2D-Rectangle-Area\2D-Rectangle-Area.csproj", "{1CCEE02F-5F87-459C-839B-7A27F915A23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USD-to-BGN", "USD-to-BGN\USD-to-BGN.csproj", "{43444B66-1B83-4142-98B5-FCB2D98E5C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailoring-Workshop", "Tailoring-Workshop\Tailoring-Workshop.csproj", "{DCA99E0F-7961-4160-80C6-E5810E8F551A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dance-Hall", "Dance-Hall\Dance-Hall.csproj", "{A78BB682-330A-4F10-95A2-408981D2D23D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charity-Campaign", "Charity-Campaign\Charity-Campaign.csproj", "{E3D3044D-5F5B-494D-898F-771E9E12A929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency-Converter", "Currency-Converter\Currency-Converter.csproj", "{00DDE37F-590D-4501-913A-7F02C891A3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9825A19-C0D1-4C30-B34E-ABF3E412EB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9825A19-C0D1-4C30-B34E-ABF3E412EB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9825A19-C0D1-4C30-B34E-ABF3E412EB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9825A19-C0D1-4C30-B34E-ABF3E412EB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCEE02F-5F87-459C-839B-7A27F915A23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCEE02F-5F87-459C-839B-7A27F915A23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCEE02F-5F87-459C-839B-7A27F915A23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCEE02F-5F87-459C-839B-7A27F915A23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43444B66-1B83-4142-98B5-FCB2D98E5C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43444B66-1B83-4142-98B5-FCB2D98E5C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43444B66-1B83-4142-98B5-FCB2D98E5C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43444B66-1B83-4142-98B5-FCB2D98E5C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA99E0F-7961-4160-80C6-E5810E8F551A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA99E0F-7961-4160-80C6-E5810E8F551A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA99E0F-7961-4160-80C6-E5810E8F551A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA99E0F-7961-4160-80C6-E5810E8F551A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78BB682-330A-4F10-95A2-408981D2D23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78BB682-330A-4F10-95A2-408981D2D23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78BB682-330A-4F10-95A2-408981D2D23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78BB682-330A-4F10-95A2-408981D2D23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D3044D-5F5B-494D-898F-771E9E12A929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D3044D-5F5B-494D-898F-771E9E12A929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D3044D-5F5B-494D-898F-771E9E12A929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D3044D-5F5B-494D-898F-771E9E12A929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DDE37F-590D-4501-913A-7F02C891A3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DDE37F-590D-4501-913A-7F02C891A3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DDE37F-590D-4501-913A-7F02C891A3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DDE37F-590D-4501-913A-7F02C891A3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20EAF66A-E696-40C1-9E90-D4B2AB5D0558}
+	EndGlobalSection
+EndGlobal

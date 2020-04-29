@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\bin\Debug\Tailoring-Workshop.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\bin\Debug\Tailoring-Workshop.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\bin\Debug\Tailoring-Workshop.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\obj\Debug\Tailoring-Workshop.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\obj\Debug\Tailoring-Workshop.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\obj\Debug\Tailoring-Workshop.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Simple-Operations-and-Calculations-Exercise\Tailoring-Workshop\obj\Debug\Tailoring-Workshop.csprojResolveAssemblyReference.cache
