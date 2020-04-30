@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\bin\Debug\MetricConverter.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\bin\Debug\MetricConverter.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\bin\Debug\MetricConverter.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\obj\Debug\MetricConverter.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\MetricConverter\obj\Debug\MetricConverter.pdb

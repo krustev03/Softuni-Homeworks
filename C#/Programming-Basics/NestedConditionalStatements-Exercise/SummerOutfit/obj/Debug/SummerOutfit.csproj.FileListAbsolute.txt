@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\bin\Debug\SummerOutfit.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\bin\Debug\SummerOutfit.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\bin\Debug\SummerOutfit.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\obj\Debug\SummerOutfit.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\obj\Debug\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\obj\Debug\SummerOutfit.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\SummerOutfit\obj\Debug\SummerOutfit.pdb

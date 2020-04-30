@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\obj\Debug\Time+15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\obj\Debug\Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\Time+15Minutes\obj\Debug\Time+15Minutes.pdb

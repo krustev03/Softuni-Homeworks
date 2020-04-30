@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.pdb

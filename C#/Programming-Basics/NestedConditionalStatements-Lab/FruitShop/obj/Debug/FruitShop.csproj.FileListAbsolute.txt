@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\bin\Debug\FruitShop.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\bin\Debug\FruitShop.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\FruitShop\obj\Debug\FruitShop.pdb

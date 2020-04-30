@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

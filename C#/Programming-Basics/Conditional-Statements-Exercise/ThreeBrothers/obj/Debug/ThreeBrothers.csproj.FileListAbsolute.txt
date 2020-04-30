@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\bin\Debug\ThreeBrothers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\obj\Debug\ThreeBrothers.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\obj\Debug\ThreeBrothers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\ThreeBrothers\obj\Debug\ThreeBrothers.pdb

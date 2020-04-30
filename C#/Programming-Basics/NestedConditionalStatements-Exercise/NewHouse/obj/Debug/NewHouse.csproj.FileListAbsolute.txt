@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\obj\Debug\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Exercise\NewHouse\obj\Debug\NewHouse.pdb

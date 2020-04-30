@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Conditional-Statements-Exercise\BonusScore\obj\Debug\BonusScore.pdb

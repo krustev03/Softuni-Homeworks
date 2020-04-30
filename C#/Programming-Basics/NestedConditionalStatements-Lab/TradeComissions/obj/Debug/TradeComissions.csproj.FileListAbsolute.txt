@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\bin\Debug\TradeComissions.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\bin\Debug\TradeComissions.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\bin\Debug\TradeComissions.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\obj\Debug\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\obj\Debug\TradeComissions.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedConditionalStatements-Lab\TradeComissions\obj\Debug\TradeComissions.pdb
