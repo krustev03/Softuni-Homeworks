@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\bin\Debug\AccountBalance.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\bin\Debug\AccountBalance.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\bin\Debug\AccountBalance.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\obj\Debug\AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\obj\Debug\AccountBalance.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\AccountBalance\obj\Debug\AccountBalance.pdb

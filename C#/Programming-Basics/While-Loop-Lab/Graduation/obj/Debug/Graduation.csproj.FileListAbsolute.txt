@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\bin\Debug\Graduation.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\bin\Debug\Graduation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\bin\Debug\Graduation.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\obj\Debug\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\obj\Debug\Graduation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Graduation\obj\Debug\Graduation.pdb

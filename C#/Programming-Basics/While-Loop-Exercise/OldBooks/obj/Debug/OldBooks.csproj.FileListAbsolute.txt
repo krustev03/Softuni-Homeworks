@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\bin\Debug\OldBooks.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\bin\Debug\OldBooks.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\bin\Debug\OldBooks.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\obj\Debug\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\obj\Debug\OldBooks.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\OldBooks\obj\Debug\OldBooks.pdb

@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\bin\Debug\Coins.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\bin\Debug\Coins.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\bin\Debug\Coins.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\obj\Debug\Coins.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\obj\Debug\Coins.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Coins\obj\Debug\Coins.pdb

@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\bin\Debug\NumberInRange1-100.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\bin\Debug\NumberInRange1-100.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\bin\Debug\NumberInRange1-100.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\obj\Debug\NumberInRange1-100.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\obj\Debug\NumberInRange1-100.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\obj\Debug\NumberInRange1-100.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberInRange1-100\obj\Debug\NumberInRange1-100.pdb

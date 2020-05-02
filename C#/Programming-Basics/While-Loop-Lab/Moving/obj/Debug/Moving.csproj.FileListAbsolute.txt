@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\bin\Debug\Moving.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\bin\Debug\Moving.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\bin\Debug\Moving.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\obj\Debug\Moving.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Moving\obj\Debug\Moving.pdb

@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\NumberSequence\obj\Debug\NumberSequence.pdb

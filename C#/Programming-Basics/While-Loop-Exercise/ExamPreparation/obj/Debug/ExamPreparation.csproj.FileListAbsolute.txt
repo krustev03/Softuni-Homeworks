@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\bin\Debug\ExamPreparation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\bin\Debug\ExamPreparation.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\obj\Debug\ExamPreparation.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\obj\Debug\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\obj\Debug\ExamPreparation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\ExamPreparation\obj\Debug\ExamPreparation.pdb

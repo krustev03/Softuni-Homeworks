@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\bin\Debug\WaterDispenser.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\bin\Debug\WaterDispenser.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\bin\Debug\WaterDispenser.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\obj\Debug\WaterDispenser.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\obj\Debug\WaterDispenser.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\WaterDispenser\obj\Debug\WaterDispenser.pdb

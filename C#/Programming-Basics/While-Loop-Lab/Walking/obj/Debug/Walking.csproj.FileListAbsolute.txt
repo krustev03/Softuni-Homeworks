@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\bin\Debug\Walking.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\bin\Debug\Walking.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\bin\Debug\Walking.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\obj\Debug\Walking.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\obj\Debug\Walking.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Lab\Walking\obj\Debug\Walking.pdb

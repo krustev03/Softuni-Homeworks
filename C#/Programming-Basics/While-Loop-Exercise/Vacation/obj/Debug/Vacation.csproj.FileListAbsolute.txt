@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\bin\Debug\Vacation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\bin\Debug\Vacation.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\obj\Debug\Vacation.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\Vacation\obj\Debug\Vacation.pdb

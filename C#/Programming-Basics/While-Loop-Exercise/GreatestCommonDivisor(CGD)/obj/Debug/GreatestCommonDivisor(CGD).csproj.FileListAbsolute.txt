@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\While-Loop-Exercise\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).pdb
