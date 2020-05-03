@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\bin\Debug\CleverLily.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\bin\Debug\CleverLily.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\bin\Debug\CleverLily.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\obj\Debug\CleverLily.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\obj\Debug\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\obj\Debug\CleverLily.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\CleverLily\obj\Debug\CleverLily.pdb

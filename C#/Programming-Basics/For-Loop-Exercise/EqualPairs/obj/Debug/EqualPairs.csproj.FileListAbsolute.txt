@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\obj\Debug\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\EqualPairs\obj\Debug\EqualPairs.pdb

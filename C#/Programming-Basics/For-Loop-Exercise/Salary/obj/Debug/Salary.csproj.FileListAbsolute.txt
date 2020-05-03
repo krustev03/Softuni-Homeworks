@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\bin\Debug\Salary.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\bin\Debug\Salary.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\bin\Debug\Salary.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\obj\Debug\Salary.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Salary\obj\Debug\Salary.pdb

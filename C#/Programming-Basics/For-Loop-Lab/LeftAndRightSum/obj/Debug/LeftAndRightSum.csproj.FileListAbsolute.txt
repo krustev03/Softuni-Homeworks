@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

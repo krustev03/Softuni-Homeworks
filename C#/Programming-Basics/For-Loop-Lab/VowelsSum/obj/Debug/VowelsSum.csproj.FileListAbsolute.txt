@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\VowelsSum\obj\Debug\VowelsSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\bin\Debug\Histogram.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\bin\Debug\Histogram.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\obj\Debug\Histogram.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\Histogram\obj\Debug\Histogram.pdb

@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\bin\Debug\DivideWithoutRemainder.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\bin\Debug\DivideWithoutRemainder.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\bin\Debug\DivideWithoutRemainder.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\obj\Debug\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\obj\Debug\DivideWithoutRemainder.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Exercise\DivideWithoutRemainder\obj\Debug\DivideWithoutRemainder.pdb

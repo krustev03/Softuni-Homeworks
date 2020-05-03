@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\For-Loop-Lab\MaxNumber\obj\Debug\MaxNumber.pdb
