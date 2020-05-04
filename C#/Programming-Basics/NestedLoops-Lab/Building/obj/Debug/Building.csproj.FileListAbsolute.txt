@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\bin\Debug\Building.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\bin\Debug\Building.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\bin\Debug\Building.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\obj\Debug\Building.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Building\obj\Debug\Building.pdb

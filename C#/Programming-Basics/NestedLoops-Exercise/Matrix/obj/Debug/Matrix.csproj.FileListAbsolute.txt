@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\bin\Debug\Matrix.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\bin\Debug\Matrix.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\obj\Debug\Matrix.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Matrix\obj\Debug\Matrix.pdb

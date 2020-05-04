@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\bin\Debug\CookieFactory.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\bin\Debug\CookieFactory.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\bin\Debug\CookieFactory.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\obj\Debug\CookieFactory.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\obj\Debug\CookieFactory.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\obj\Debug\CookieFactory.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\CookieFactory\obj\Debug\CookieFactory.pdb

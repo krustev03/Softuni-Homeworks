@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\obj\Debug\NumberPyramid.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberPyramid\obj\Debug\NumberPyramid.pdb

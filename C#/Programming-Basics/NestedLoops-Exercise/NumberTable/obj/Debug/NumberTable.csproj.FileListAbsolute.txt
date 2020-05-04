@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\obj\Debug\NumberTable.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\NumberTable\obj\Debug\NumberTable.pdb

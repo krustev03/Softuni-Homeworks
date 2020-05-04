@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\obj\Debug\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

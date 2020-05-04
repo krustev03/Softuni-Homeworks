@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.pdb

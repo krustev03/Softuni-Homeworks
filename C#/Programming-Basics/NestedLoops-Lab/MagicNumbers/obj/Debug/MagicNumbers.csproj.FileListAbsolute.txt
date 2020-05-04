@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\bin\Debug\MagicNumbers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\bin\Debug\MagicNumbers.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\obj\Debug\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\obj\Debug\MagicNumbers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\MagicNumbers\obj\Debug\MagicNumbers.pdb

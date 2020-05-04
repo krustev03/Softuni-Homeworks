@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.pdb

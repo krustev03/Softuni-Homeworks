@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\bin\Debug\EqualSumsLeftRightPosition.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\bin\Debug\EqualSumsLeftRightPosition.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\bin\Debug\EqualSumsLeftRightPosition.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\obj\Debug\EqualSumsLeftRightPosition.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\obj\Debug\EqualSumsLeftRightPosition.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\obj\Debug\EqualSumsLeftRightPosition.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\EqualSumsLeftRightPosition\obj\Debug\EqualSumsLeftRightPosition.pdb

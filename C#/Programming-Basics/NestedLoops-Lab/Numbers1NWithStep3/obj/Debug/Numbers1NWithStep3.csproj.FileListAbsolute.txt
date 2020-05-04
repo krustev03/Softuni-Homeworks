@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\bin\Debug\Numbers1NWithStep3.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\bin\Debug\Numbers1NWithStep3.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\bin\Debug\Numbers1NWithStep3.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\obj\Debug\Numbers1NWithStep3.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\obj\Debug\Numbers1NWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\obj\Debug\Numbers1NWithStep3.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Numbers1NWithStep3\obj\Debug\Numbers1NWithStep3.pdb

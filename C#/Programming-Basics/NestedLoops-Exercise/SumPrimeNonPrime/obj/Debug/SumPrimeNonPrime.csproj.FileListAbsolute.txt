@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.pdb

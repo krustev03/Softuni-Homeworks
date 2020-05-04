@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\bin\Debug\Coding.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\bin\Debug\Coding.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\bin\Debug\Coding.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\obj\Debug\Coding.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\obj\Debug\Coding.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Exercise\Coding\obj\Debug\Coding.pdb

@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\bin\Debug\NameWars.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\bin\Debug\NameWars.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\bin\Debug\NameWars.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\obj\Debug\NameWars.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\obj\Debug\NameWars.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\NameWars\obj\Debug\NameWars.pdb

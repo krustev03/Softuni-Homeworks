@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\bin\Debug\Travelling.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\bin\Debug\Travelling.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\bin\Debug\Travelling.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\obj\Debug\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\obj\Debug\Travelling.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\NestedLoops-Lab\Travelling\obj\Debug\Travelling.pdb
