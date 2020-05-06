@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\bin\Debug\Sixth.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\bin\Debug\Sixth.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\bin\Debug\Sixth.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\obj\Debug\Sixth.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\obj\Debug\Sixth.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Sixth\obj\Debug\Sixth.pdb

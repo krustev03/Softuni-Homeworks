@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\bin\Debug\Third.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\bin\Debug\Third.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\bin\Debug\Third.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\obj\Debug\Third.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Third\obj\Debug\Third.pdb

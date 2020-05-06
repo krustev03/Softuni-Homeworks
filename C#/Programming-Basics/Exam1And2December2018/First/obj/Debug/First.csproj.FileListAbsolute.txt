@@ -1,0 +1,7 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\bin\Debug\First.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\bin\Debug\First.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\bin\Debug\First.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\obj\Debug\First.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\First\obj\Debug\First.pdb

@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\bin\Debug\Forth.exe.config
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\bin\Debug\Forth.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\bin\Debug\Forth.pdb
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\obj\Debug\Forth.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\obj\Debug\Forth.exe
+C:\Users\User1\Desktop\SoftUni Cours Exams\Exam1And2December2018\Forth\obj\Debug\Forth.pdb
