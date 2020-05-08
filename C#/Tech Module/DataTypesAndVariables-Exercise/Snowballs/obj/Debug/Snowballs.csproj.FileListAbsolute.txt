@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\Snowballs.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\Snowballs.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\Snowballs.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\Snowballs.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\Snowballs.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\Snowballs.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.pdb

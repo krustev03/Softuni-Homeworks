@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.pdb

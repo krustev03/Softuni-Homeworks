@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\bin\Debug\LowerOrUpper.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\bin\Debug\LowerOrUpper.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\bin\Debug\LowerOrUpper.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\obj\Debug\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\obj\Debug\LowerOrUpper.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\LowerOrUpper\obj\Debug\LowerOrUpper.pdb

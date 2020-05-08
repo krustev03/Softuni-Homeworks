@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.pdb

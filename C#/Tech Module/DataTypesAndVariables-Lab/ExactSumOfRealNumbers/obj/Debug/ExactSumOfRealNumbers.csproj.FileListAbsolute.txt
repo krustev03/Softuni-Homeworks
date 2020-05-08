@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

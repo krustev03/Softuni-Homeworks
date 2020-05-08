@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\bin\Debug\FloatingEquality.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\bin\Debug\FloatingEquality.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\bin\Debug\FloatingEquality.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\obj\Debug\FloatingEquality.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\obj\Debug\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\obj\Debug\FloatingEquality.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\FloatingEquality\obj\Debug\FloatingEquality.pdb

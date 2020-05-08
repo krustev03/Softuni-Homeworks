@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\SumOfChars.pdb

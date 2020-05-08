@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\WaterOverflow.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\WaterOverflow.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\WaterOverflow.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\WaterOverflow.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\WaterOverflow.pdb

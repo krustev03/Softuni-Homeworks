@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

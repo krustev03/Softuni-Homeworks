@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

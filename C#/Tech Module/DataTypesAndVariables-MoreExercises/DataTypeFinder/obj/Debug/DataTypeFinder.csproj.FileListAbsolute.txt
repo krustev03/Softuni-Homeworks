@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\bin\Debug\DataTypeFinder.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\bin\Debug\DataTypeFinder.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\bin\Debug\DataTypeFinder.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\obj\Debug\DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\obj\Debug\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\obj\Debug\DataTypeFinder.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DataTypeFinder\obj\Debug\DataTypeFinder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\bin\Debug\Refactoring-PrimeChecker.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\bin\Debug\Refactoring-PrimeChecker.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\bin\Debug\Refactoring-PrimeChecker.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\obj\Debug\Refactoring-PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\obj\Debug\Refactoring-PrimeChecker.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\Refactoring-PrimeChecker\obj\Debug\Refactoring-PrimeChecker.pdb

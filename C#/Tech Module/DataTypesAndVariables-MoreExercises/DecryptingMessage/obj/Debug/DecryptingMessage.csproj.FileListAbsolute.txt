@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\obj\Debug\DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\obj\Debug\DecryptingMessage.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\DataTypesAndVariables-MoreExercises\DecryptingMessage\obj\Debug\DecryptingMessage.pdb
