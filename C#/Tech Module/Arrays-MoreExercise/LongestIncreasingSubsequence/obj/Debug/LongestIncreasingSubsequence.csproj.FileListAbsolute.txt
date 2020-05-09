@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

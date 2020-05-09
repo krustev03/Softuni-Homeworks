@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.pdb

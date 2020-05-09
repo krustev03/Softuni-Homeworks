@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

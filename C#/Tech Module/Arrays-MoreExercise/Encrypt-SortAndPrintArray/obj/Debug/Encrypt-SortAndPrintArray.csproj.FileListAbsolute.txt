@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\bin\Debug\Encrypt-SortAndPrintArray.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\bin\Debug\Encrypt-SortAndPrintArray.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\bin\Debug\Encrypt-SortAndPrintArray.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\obj\Debug\Encrypt-SortAndPrintArray.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\obj\Debug\Encrypt-SortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\obj\Debug\Encrypt-SortAndPrintArray.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\Encrypt-SortAndPrintArray\obj\Debug\Encrypt-SortAndPrintArray.pdb

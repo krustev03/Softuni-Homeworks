@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\obj\Debug\FoldAndSum.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\FoldAndSum\obj\Debug\FoldAndSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\bin\Debug\EqualSum.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\bin\Debug\EqualSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\bin\Debug\EqualSum.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\obj\Debug\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\obj\Debug\EqualSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\EqualSum\obj\Debug\EqualSum.pdb

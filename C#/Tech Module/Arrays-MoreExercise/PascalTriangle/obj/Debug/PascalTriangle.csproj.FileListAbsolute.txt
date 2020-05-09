@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.pdb

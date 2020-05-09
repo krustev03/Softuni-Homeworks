@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\bin\Debug\Train.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\bin\Debug\Train.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\bin\Debug\Train.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\obj\Debug\Train.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\obj\Debug\Train.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Train\obj\Debug\Train.pdb

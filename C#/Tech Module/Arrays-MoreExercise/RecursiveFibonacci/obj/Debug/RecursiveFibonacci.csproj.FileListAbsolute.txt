@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-MoreExercise\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.pdb

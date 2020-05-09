@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\obj\Debug\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\ArrayRotation\obj\Debug\ArrayRotation.pdb

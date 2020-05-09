@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\bin\Debug\Zig-ZagArrays.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\bin\Debug\Zig-ZagArrays.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\bin\Debug\Zig-ZagArrays.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\obj\Debug\Zig-ZagArrays.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\obj\Debug\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\obj\Debug\Zig-ZagArrays.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\Zig-ZagArrays\obj\Debug\Zig-ZagArrays.pdb

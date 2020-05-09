@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\bin\Debug\MagicSum.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\bin\Debug\MagicSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\bin\Debug\MagicSum.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\obj\Debug\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\obj\Debug\MagicSum.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays-Exercise\MagicSum\obj\Debug\MagicSum.pdb

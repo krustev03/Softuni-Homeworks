@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\obj\Debug\RoundingNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Arrays - Lab\RoundingNumbers\obj\Debug\RoundingNumbers.csprojAssemblyReference.cache
