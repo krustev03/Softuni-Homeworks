@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\bin\Debug\Orders.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\bin\Debug\Orders.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\bin\Debug\Orders.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\obj\Debug\Orders.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Orders\obj\Debug\Orders.pdb

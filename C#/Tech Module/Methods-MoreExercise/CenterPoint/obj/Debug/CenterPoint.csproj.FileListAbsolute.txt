@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\obj\Debug\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\CenterPoint\obj\Debug\CenterPoint.pdb

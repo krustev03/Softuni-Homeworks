@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.pdb

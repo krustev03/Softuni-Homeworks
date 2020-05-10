@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.pdb

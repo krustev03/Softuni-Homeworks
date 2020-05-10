@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\bin\Debug\FactorialDivision.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\bin\Debug\FactorialDivision.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\bin\Debug\FactorialDivision.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\obj\Debug\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\obj\Debug\FactorialDivision.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\FactorialDivision\obj\Debug\FactorialDivision.pdb

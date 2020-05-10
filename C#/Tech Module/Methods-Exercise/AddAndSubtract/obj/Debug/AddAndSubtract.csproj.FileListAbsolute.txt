@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\bin\Debug\AddAndSubtract.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\bin\Debug\AddAndSubtract.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\bin\Debug\AddAndSubtract.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\obj\Debug\AddAndSubtract.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\obj\Debug\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\obj\Debug\AddAndSubtract.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\AddAndSubtract\obj\Debug\AddAndSubtract.pdb

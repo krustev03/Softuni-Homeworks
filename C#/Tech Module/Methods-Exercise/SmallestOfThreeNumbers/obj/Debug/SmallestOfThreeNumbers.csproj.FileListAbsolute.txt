@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\bin\Debug\TopNumber.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\bin\Debug\TopNumber.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\bin\Debug\TopNumber.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\obj\Debug\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\obj\Debug\TopNumber.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\TopNumber\obj\Debug\TopNumber.pdb

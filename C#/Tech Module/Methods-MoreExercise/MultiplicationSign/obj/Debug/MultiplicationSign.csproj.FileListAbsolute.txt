@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\obj\Debug\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\bin\Debug\RepeatString.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\bin\Debug\RepeatString.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\bin\Debug\RepeatString.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\obj\Debug\RepeatString.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\obj\Debug\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\obj\Debug\RepeatString.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\RepeatString\obj\Debug\RepeatString.pdb

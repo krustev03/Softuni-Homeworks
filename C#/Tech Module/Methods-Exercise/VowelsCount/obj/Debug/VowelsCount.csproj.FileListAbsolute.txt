@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\bin\Debug\VowelsCount.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\bin\Debug\VowelsCount.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\bin\Debug\VowelsCount.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\obj\Debug\VowelsCount.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\obj\Debug\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\obj\Debug\VowelsCount.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\VowelsCount\obj\Debug\VowelsCount.pdb

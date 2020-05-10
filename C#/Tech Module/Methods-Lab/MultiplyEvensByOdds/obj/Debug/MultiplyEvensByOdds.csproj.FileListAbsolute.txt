@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

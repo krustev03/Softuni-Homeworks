@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\bin\Debug\MathPower.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\bin\Debug\MathPower.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\bin\Debug\MathPower.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\obj\Debug\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\obj\Debug\MathPower.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\MathPower\obj\Debug\MathPower.pdb

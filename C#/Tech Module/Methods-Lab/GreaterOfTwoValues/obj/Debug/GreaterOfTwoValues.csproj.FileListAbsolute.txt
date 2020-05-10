@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

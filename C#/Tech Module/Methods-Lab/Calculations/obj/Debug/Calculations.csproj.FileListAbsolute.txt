@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\bin\Debug\Calculations.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\obj\Debug\Calculations.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\Calculations\obj\Debug\Calculations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\obj\Debug\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\obj\Debug\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

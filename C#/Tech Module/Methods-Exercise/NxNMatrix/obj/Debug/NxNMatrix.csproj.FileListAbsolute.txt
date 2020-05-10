@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\bin\Debug\NxNMatrix.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\bin\Debug\NxNMatrix.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\bin\Debug\NxNMatrix.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\obj\Debug\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\obj\Debug\NxNMatrix.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Exercise\NxNMatrix\obj\Debug\NxNMatrix.pdb

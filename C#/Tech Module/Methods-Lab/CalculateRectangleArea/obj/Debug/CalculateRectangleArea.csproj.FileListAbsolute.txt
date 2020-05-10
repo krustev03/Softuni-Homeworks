@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-Lab\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.pdb

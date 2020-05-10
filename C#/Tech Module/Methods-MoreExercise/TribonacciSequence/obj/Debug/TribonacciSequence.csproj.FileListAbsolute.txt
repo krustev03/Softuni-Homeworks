@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\bin\Debug\TribonacciSequence.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\bin\Debug\TribonacciSequence.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\bin\Debug\TribonacciSequence.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\obj\Debug\TribonacciSequence.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\obj\Debug\TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\obj\Debug\TribonacciSequence.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Methods-MoreExercise\TribonacciSequence\obj\Debug\TribonacciSequence.pdb
