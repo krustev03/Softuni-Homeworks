@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\bin\Debug\Messaging.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\bin\Debug\Messaging.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\bin\Debug\Messaging.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\obj\Debug\Messaging.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\obj\Debug\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\obj\Debug\Messaging.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\Messaging\obj\Debug\Messaging.pdb

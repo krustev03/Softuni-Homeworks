@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

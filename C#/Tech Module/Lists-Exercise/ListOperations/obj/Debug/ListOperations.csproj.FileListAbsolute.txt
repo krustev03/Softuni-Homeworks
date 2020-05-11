@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\bin\Debug\ListOperations.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\bin\Debug\ListOperations.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\bin\Debug\ListOperations.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\obj\Debug\ListOperations.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\obj\Debug\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\obj\Debug\ListOperations.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\ListOperations\obj\Debug\ListOperations.pdb

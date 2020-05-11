@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\bin\Debug\TakeSkipRope.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\bin\Debug\TakeSkipRope.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\bin\Debug\TakeSkipRope.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\obj\Debug\TakeSkipRope.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\obj\Debug\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\obj\Debug\TakeSkipRope.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\TakeSkipRope\obj\Debug\TakeSkipRope.pdb

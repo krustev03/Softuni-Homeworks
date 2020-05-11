@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\bin\Debug\AppendArrays.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\bin\Debug\AppendArrays.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\bin\Debug\AppendArrays.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\obj\Debug\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\obj\Debug\AppendArrays.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AppendArrays\obj\Debug\AppendArrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\bin\Debug\AnonymousThreat.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\bin\Debug\AnonymousThreat.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\bin\Debug\AnonymousThreat.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\obj\Debug\AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\obj\Debug\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\obj\Debug\AnonymousThreat.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\AnonymousThreat\obj\Debug\AnonymousThreat.pdb

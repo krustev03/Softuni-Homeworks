@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.pdb

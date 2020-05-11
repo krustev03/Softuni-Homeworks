@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\bin\Debug\GaussTrick.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\bin\Debug\GaussTrick.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\bin\Debug\GaussTrick.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\obj\Debug\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\obj\Debug\GaussTrick.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\GaussTrick\obj\Debug\GaussTrick.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.pdb

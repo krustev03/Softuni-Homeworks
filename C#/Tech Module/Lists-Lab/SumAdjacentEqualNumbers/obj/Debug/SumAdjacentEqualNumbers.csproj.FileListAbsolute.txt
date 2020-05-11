@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Lab\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

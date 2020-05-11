@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\bin\Debug\CarRace.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\bin\Debug\CarRace.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\obj\Debug\CarRace.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-MoreExercise\CarRace\obj\Debug\CarRace.pdb

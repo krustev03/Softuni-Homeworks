@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\bin\Debug\BombNumbers.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\bin\Debug\BombNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\bin\Debug\BombNumbers.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\obj\Debug\BombNumbers.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\obj\Debug\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\obj\Debug\BombNumbers.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\Lists-Exercise\BombNumbers\obj\Debug\BombNumbers.pdb
