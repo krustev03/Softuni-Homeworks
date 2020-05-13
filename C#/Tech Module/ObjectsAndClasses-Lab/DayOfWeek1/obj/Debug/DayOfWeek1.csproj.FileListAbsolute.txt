@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\bin\Debug\DayOfWeek1.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\bin\Debug\DayOfWeek1.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\bin\Debug\DayOfWeek1.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\obj\Debug\DayOfWeek1.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\obj\Debug\DayOfWeek1.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\obj\Debug\DayOfWeek1.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\DayOfWeek1\obj\Debug\DayOfWeek1.pdb

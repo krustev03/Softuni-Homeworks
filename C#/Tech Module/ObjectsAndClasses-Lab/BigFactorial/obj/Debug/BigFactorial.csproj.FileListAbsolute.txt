@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\bin\Debug\BigFactorial.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\bin\Debug\BigFactorial.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\bin\Debug\BigFactorial.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\obj\Debug\BigFactorial.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\obj\Debug\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\obj\Debug\BigFactorial.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\BigFactorial\obj\Debug\BigFactorial.pdb

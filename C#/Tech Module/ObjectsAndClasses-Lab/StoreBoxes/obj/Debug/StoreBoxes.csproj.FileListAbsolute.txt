@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\bin\Debug\StoreBoxes.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\bin\Debug\StoreBoxes.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\bin\Debug\StoreBoxes.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\obj\Debug\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\obj\Debug\StoreBoxes.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Lab\StoreBoxes\obj\Debug\StoreBoxes.pdb

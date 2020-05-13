@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\bin\Debug\Students.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\bin\Debug\Students.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\bin\Debug\Students.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\obj\Debug\Students.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-Exercise\Students\obj\Debug\Students.pdb

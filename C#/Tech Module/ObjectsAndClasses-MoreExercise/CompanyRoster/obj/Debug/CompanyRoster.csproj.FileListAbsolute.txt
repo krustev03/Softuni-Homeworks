@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\bin\Debug\CompanyRoster.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\bin\Debug\CompanyRoster.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\obj\Debug\CompanyRoster.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\obj\Debug\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\obj\Debug\CompanyRoster.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ObjectsAndClasses-MoreExercise\CompanyRoster\obj\Debug\CompanyRoster.pdb
