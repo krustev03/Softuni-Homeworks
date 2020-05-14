@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.pdb

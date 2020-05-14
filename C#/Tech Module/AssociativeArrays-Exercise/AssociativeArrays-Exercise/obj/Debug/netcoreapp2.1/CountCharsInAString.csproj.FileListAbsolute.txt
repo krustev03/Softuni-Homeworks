@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\bin\Debug\netcoreapp2.1\CountCharsInAString.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\bin\Debug\netcoreapp2.1\CountCharsInAString.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\bin\Debug\netcoreapp2.1\CountCharsInAString.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\bin\Debug\netcoreapp2.1\CountCharsInAString.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\bin\Debug\netcoreapp2.1\CountCharsInAString.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AssociativeArrays-Exercise\obj\Debug\netcoreapp2.1\CountCharsInAString.pdb

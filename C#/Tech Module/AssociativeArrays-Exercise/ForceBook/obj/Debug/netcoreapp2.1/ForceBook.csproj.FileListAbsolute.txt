@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.pdb

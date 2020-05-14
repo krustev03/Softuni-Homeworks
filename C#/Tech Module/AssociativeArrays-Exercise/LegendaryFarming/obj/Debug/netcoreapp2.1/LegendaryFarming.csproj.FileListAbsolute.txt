@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.pdb

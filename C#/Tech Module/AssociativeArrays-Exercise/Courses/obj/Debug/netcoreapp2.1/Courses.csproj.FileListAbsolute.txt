@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\AssociativeArrays-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.pdb
