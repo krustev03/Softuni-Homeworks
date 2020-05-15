@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\bin\Debug\netcoreapp2.1\HTML.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\bin\Debug\netcoreapp2.1\HTML.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\bin\Debug\netcoreapp2.1\HTML.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\bin\Debug\netcoreapp2.1\HTML.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\bin\Debug\netcoreapp2.1\HTML.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\obj\Debug\netcoreapp2.1\HTML.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\obj\Debug\netcoreapp2.1\HTML.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\obj\Debug\netcoreapp2.1\HTML.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\obj\Debug\netcoreapp2.1\HTML.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\HTML\obj\Debug\netcoreapp2.1\HTML.pdb

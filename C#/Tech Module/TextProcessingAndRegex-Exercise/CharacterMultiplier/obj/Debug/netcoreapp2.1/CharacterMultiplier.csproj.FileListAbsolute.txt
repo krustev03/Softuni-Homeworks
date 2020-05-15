@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractPersonInformation", "ExtractPersonInformation\ExtractPersonInformation.csproj", "{0EAB83D7-A9C4-40E3-AD6F-EC555F619742}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsciiSumator", "AsciiSumator\AsciiSumator.csproj", "{9D144180-403A-4C05-BD90-8A317E2C60DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureFinder", "TreasureFinder\TreasureFinder.csproj", "{78E3388F-CE02-4DDB-BCD1-093EE1291E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeTranslator", "MorseCodeTranslator\MorseCodeTranslator.csproj", "{6073CE64-E7B6-4F2E-938A-D2C2AA1DFCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML", "HTML\HTML.csproj", "{0726C3F1-7D9D-48E7-87D8-F4F8EC08CBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinningTicket", "WinningTicket\WinningTicket.csproj", "{6FE7D0FD-5D51-42C3-9C48-2F05D50E3529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetherRealms", "NetherRealms\NetherRealms.csproj", "{AFBF0056-717D-4B26-B9D8-676C5C39DD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAB83D7-A9C4-40E3-AD6F-EC555F619742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAB83D7-A9C4-40E3-AD6F-EC555F619742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAB83D7-A9C4-40E3-AD6F-EC555F619742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAB83D7-A9C4-40E3-AD6F-EC555F619742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D144180-403A-4C05-BD90-8A317E2C60DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D144180-403A-4C05-BD90-8A317E2C60DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D144180-403A-4C05-BD90-8A317E2C60DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D144180-403A-4C05-BD90-8A317E2C60DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E3388F-CE02-4DDB-BCD1-093EE1291E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E3388F-CE02-4DDB-BCD1-093EE1291E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E3388F-CE02-4DDB-BCD1-093EE1291E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E3388F-CE02-4DDB-BCD1-093EE1291E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6073CE64-E7B6-4F2E-938A-D2C2AA1DFCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6073CE64-E7B6-4F2E-938A-D2C2AA1DFCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6073CE64-E7B6-4F2E-938A-D2C2AA1DFCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6073CE64-E7B6-4F2E-938A-D2C2AA1DFCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0726C3F1-7D9D-48E7-87D8-F4F8EC08CBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0726C3F1-7D9D-48E7-87D8-F4F8EC08CBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0726C3F1-7D9D-48E7-87D8-F4F8EC08CBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0726C3F1-7D9D-48E7-87D8-F4F8EC08CBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE7D0FD-5D51-42C3-9C48-2F05D50E3529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE7D0FD-5D51-42C3-9C48-2F05D50E3529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE7D0FD-5D51-42C3-9C48-2F05D50E3529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE7D0FD-5D51-42C3-9C48-2F05D50E3529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBF0056-717D-4B26-B9D8-676C5C39DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBF0056-717D-4B26-B9D8-676C5C39DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBF0056-717D-4B26-B9D8-676C5C39DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBF0056-717D-4B26-B9D8-676C5C39DD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3B6195-7593-4EBF-A988-FD36E55D9CFC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.pdb

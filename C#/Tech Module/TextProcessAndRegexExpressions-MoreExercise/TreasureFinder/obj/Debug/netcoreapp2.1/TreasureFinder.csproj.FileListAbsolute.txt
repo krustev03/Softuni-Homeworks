@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\bin\Debug\netcoreapp2.1\TreasureFinder.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\bin\Debug\netcoreapp2.1\TreasureFinder.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\bin\Debug\netcoreapp2.1\TreasureFinder.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\bin\Debug\netcoreapp2.1\TreasureFinder.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\bin\Debug\netcoreapp2.1\TreasureFinder.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\obj\Debug\netcoreapp2.1\TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\obj\Debug\netcoreapp2.1\TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\obj\Debug\netcoreapp2.1\TreasureFinder.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\obj\Debug\netcoreapp2.1\TreasureFinder.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\TreasureFinder\obj\Debug\netcoreapp2.1\TreasureFinder.pdb

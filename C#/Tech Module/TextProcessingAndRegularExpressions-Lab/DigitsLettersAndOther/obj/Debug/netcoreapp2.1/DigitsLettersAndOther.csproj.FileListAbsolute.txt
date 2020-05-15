@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.pdb

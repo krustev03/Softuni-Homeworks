@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.pdb

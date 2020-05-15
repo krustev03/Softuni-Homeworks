@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.pdb

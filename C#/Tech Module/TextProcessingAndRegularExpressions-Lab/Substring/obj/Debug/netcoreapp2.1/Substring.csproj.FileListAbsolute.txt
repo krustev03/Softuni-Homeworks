@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\bin\Debug\netcoreapp2.1\Substring.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\bin\Debug\netcoreapp2.1\Substring.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\bin\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\obj\Debug\netcoreapp2.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\obj\Debug\netcoreapp2.1\Substring.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\Substring\obj\Debug\netcoreapp2.1\Substring.pdb

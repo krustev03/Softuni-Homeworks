@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.pdb

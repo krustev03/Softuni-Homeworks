@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.pdb

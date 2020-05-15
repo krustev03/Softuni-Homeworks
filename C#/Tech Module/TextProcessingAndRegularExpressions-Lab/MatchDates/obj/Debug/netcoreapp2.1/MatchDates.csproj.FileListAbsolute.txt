@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\bin\Debug\netcoreapp2.1\MatchDates.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\bin\Debug\netcoreapp2.1\MatchDates.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\bin\Debug\netcoreapp2.1\MatchDates.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\bin\Debug\netcoreapp2.1\MatchDates.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\bin\Debug\netcoreapp2.1\MatchDates.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegularExpressions-Lab\MatchDates\obj\Debug\netcoreapp2.1\MatchDates.pdb

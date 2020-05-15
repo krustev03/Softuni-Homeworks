@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb

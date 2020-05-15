@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessAndRegexExpressions-MoreExercise\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.pdb

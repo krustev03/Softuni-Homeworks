@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TextProcessingAndRegex-Exercise\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.pdb
