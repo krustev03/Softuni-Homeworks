@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb

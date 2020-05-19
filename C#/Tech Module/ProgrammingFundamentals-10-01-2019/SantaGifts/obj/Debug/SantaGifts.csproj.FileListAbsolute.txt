@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\bin\Debug\SantaGifts.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\bin\Debug\SantaGifts.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\bin\Debug\SantaGifts.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\obj\Debug\SantaGifts.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\obj\Debug\SantaGifts.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\obj\Debug\SantaGifts.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantaGifts\obj\Debug\SantaGifts.pdb

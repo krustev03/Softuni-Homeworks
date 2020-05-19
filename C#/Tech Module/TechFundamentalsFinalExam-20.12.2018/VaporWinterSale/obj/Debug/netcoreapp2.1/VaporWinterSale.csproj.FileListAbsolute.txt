@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\bin\Debug\netcoreapp2.1\VaporWinterSale.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\bin\Debug\netcoreapp2.1\VaporWinterSale.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\bin\Debug\netcoreapp2.1\VaporWinterSale.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\bin\Debug\netcoreapp2.1\VaporWinterSale.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\bin\Debug\netcoreapp2.1\VaporWinterSale.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\VaporWinterSale\obj\Debug\netcoreapp2.1\VaporWinterSale.pdb

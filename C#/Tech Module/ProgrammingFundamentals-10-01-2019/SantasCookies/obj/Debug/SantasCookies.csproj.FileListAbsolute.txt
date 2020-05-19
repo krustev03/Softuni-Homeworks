@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\bin\Debug\SantasCookies.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\bin\Debug\SantasCookies.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\bin\Debug\SantasCookies.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\obj\Debug\SantasCookies.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\obj\Debug\SantasCookies.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\obj\Debug\SantasCookies.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\ProgrammingFundamentals-10-01-2019\SantasCookies\obj\Debug\SantasCookies.pdb

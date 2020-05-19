@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\bin\Debug\ChristmasSpirit.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\bin\Debug\ChristmasSpirit.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\bin\Debug\ChristmasSpirit.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\obj\Debug\ChristmasSpirit.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\obj\Debug\ChristmasSpirit.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\obj\Debug\ChristmasSpirit.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\ChristmasSpirit\obj\Debug\ChristmasSpirit.pdb

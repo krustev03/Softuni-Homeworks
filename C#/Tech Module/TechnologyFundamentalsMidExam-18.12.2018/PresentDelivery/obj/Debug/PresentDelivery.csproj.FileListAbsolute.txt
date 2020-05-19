@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\bin\Debug\PresentDelivery.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\bin\Debug\PresentDelivery.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\bin\Debug\PresentDelivery.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\obj\Debug\PresentDelivery.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\obj\Debug\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\obj\Debug\PresentDelivery.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechnologyFundamentalsMidExam-18.12.2018\PresentDelivery\obj\Debug\PresentDelivery.pdb

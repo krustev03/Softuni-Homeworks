@@ -1,0 +1,21 @@
+﻿@model List<Band>
+
+<div id="band-wrapper">
+    <section class="home">
+        <h2>Registered Bands:</h2>
+        @foreach (var item in Model)
+        {
+            <article>
+                <h3>@item.Name</h3>
+                <p>@item.Members</p>
+                <p>@item.Honorarium$</p>
+                <p>@item.Genre</p>
+                <div>
+                    <a class="fas fa-edit" asp-action="Edit" asp-controller="Band" asp-route-id="@item.Id"></a>
+                    <a class="fas fa-trash-alt" asp-action="Delete" asp-controller="Band" asp-route-id="@item.Id"></a>
+                </div>
+            </article>
+        }
+        <a id="create-button" asp-action="Create" asp-controller="Band">Register Band</a>
+    </section>
+</div>

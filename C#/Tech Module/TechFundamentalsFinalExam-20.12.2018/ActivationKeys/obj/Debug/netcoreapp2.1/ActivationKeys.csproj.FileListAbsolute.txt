@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsFinalExam-20.12.2018\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.pdb

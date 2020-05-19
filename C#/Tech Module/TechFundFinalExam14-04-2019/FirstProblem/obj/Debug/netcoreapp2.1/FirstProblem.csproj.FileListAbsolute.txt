@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundFinalExam14-04-2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.pdb

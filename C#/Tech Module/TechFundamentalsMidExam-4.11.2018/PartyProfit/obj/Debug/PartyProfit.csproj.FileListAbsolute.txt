@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\bin\Debug\PartyProfit.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\bin\Debug\PartyProfit.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\bin\Debug\PartyProfit.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\obj\Debug\PartyProfit.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\obj\Debug\PartyProfit.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\obj\Debug\PartyProfit.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\PartyProfit\obj\Debug\PartyProfit.pdb

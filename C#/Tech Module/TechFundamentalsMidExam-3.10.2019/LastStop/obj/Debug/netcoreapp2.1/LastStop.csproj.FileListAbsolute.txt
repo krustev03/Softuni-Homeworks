@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\bin\Debug\netcoreapp2.1\LastStop.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\bin\Debug\netcoreapp2.1\LastStop.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\bin\Debug\netcoreapp2.1\LastStop.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\bin\Debug\netcoreapp2.1\LastStop.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\bin\Debug\netcoreapp2.1\LastStop.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\LastStop\obj\Debug\netcoreapp2.1\LastStop.pdb

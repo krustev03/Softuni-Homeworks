@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\bin\Debug\netcoreapp2.1\Hello-France.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\bin\Debug\netcoreapp2.1\Hello-France.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\bin\Debug\netcoreapp2.1\Hello-France.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\bin\Debug\netcoreapp2.1\Hello-France.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\bin\Debug\netcoreapp2.1\Hello-France.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-3.10.2019\Hello-France\obj\Debug\netcoreapp2.1\Hello-France.pdb

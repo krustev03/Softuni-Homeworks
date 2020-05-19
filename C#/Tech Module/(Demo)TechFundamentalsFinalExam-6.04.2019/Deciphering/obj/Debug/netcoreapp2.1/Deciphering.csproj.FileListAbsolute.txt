@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.deps.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.runtimeconfig.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.dll
+C:\Users\Pepi\Desktop\Tech Module Exercises\(Demo)TechFundamentalsFinalExam-6.04.2019\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.pdb

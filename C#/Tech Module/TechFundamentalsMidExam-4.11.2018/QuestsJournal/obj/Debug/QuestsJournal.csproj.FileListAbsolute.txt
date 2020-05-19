@@ -1,0 +1,7 @@
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\obj\Debug\QuestsJournal.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\obj\Debug\QuestsJournal.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\bin\Debug\QuestsJournal.exe.config
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\bin\Debug\QuestsJournal.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\bin\Debug\QuestsJournal.pdb
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\obj\Debug\QuestsJournal.exe
+C:\Users\Pepi\Desktop\Tech Module Exercises\TechFundamentalsMidExam-4.11.2018\QuestsJournal\obj\Debug\QuestsJournal.pdb
