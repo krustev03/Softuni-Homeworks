@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.pdb

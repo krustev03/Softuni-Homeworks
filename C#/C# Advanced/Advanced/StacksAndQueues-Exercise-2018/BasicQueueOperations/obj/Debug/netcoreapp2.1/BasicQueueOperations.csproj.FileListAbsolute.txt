@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\MaximumAndMinimumElement.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\MaximumAndMinimumElement.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\MaximumAndMinimumElement.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\MaximumAndMinimumElement.pdb

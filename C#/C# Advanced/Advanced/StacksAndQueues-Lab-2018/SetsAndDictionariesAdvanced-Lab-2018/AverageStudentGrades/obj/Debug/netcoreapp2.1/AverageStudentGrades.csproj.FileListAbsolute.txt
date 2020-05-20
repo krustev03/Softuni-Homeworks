@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.deps.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.pdb
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\bin\Debug\netcoreapp2.1\BalancedParenthesis.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\bin\Debug\netcoreapp2.1\BalancedParenthesis.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\bin\Debug\netcoreapp2.1\BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\bin\Debug\netcoreapp2.1\BalancedParenthesis.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\bin\Debug\netcoreapp2.1\BalancedParenthesis.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\obj\Debug\netcoreapp2.1\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\obj\Debug\netcoreapp2.1\BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\obj\Debug\netcoreapp2.1\BalancedParenthesis.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\obj\Debug\netcoreapp2.1\BalancedParenthesis.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\BalancedParenthesis\obj\Debug\netcoreapp2.1\BalancedParenthesis.pdb

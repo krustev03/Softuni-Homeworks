@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.pdb

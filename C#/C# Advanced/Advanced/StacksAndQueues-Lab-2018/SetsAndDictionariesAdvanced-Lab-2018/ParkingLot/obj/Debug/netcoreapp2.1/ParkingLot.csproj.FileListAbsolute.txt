@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.deps.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.pdb
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.pdb

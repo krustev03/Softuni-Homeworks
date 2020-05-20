@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.deps.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb

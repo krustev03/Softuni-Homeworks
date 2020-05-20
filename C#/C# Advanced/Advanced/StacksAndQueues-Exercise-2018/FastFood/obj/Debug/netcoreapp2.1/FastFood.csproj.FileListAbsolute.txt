@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\bin\Debug\netcoreapp2.1\FastFood.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\bin\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\bin\Debug\netcoreapp2.1\FastFood.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Exercise-2018\FastFood\obj\Debug\netcoreapp2.1\FastFood.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.deps.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.pdb
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\Pepi\Desktop\Other problems\StacksAndQueues-Lab-2018\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.pdb
