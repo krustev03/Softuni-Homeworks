@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.pdb

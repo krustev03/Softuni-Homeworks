@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\bin\Debug\netcoreapp2.1\SquareWithMaximumSum.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\bin\Debug\netcoreapp2.1\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\bin\Debug\netcoreapp2.1\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\bin\Debug\netcoreapp2.1\SquareWithMaximumSum.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\bin\Debug\netcoreapp2.1\SquareWithMaximumSum.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SquareWithMaximumSum\obj\Debug\netcoreapp2.1\SquareWithMaximumSum.pdb

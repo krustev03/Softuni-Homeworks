@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\bin\Debug\netcoreapp2.1\Jagged-ArrayModification.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\bin\Debug\netcoreapp2.1\Jagged-ArrayModification.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\bin\Debug\netcoreapp2.1\Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\bin\Debug\netcoreapp2.1\Jagged-ArrayModification.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\bin\Debug\netcoreapp2.1\Jagged-ArrayModification.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\obj\Debug\netcoreapp2.1\Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\obj\Debug\netcoreapp2.1\Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\obj\Debug\netcoreapp2.1\Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\obj\Debug\netcoreapp2.1\Jagged-ArrayModification.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\Jagged-ArrayModification\obj\Debug\netcoreapp2.1\Jagged-ArrayModification.pdb

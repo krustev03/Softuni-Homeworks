@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Exercise-2018\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.pdb

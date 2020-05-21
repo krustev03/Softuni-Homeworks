@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.pdb

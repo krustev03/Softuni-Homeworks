@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\bin\Debug\netcoreapp2.1\SumMatrixColumns.deps.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\bin\Debug\netcoreapp2.1\SumMatrixColumns.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\bin\Debug\netcoreapp2.1\SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\bin\Debug\netcoreapp2.1\SumMatrixColumns.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\bin\Debug\netcoreapp2.1\SumMatrixColumns.pdb
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.dll
+C:\Users\Pepi\Desktop\Other problems\MultidimensionalArrays-Lab-2018\SumMatrixColumns\obj\Debug\netcoreapp2.1\SumMatrixColumns.pdb
