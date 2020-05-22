@@ -1,0 +1,11 @@
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

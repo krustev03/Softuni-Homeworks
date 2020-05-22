@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.dll
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.pdb
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.dll
+C:\Users\UserE1\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Exercises\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.pdb

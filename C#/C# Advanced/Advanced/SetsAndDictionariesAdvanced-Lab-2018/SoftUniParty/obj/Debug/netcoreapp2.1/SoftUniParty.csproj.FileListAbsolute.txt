@@ -1,0 +1,10 @@
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.deps.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.pdb
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\Pepi\Desktop\Other problems\SetsAndDictionariesAdvanced-Lab-2018\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.pdb
