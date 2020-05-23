@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.pdb

@@ -1,0 +1,13 @@
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\Resources\02. Line Numbers\Input.txt
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.pdb

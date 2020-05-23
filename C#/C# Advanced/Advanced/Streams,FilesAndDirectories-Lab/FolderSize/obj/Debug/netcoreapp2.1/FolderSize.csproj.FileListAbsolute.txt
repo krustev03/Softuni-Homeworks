@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp2.1\FolderSize.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp2.1\FolderSize.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp2.1\FolderSize.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp2.1\FolderSize.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp2.1\FolderSize.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp2.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp2.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp2.1\FolderSize.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp2.1\FolderSize.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp2.1\FolderSize.pdb

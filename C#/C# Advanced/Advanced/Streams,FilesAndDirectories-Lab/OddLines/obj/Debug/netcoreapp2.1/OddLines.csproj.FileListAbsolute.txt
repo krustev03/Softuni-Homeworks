@@ -1,0 +1,12 @@
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\OddLines.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\OddLines.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\OddLines.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\OddLines.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\OddLines.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.dll
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\obj\Debug\netcoreapp2.1\OddLines.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Streams,FilesAndDirectories-Lab\OddLines\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt
