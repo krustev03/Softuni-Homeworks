@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\netcoreapp2.1\ReverseAndExclude.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\netcoreapp2.1\ReverseAndExclude.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\netcoreapp2.1\ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\netcoreapp2.1\ReverseAndExclude.dll
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\netcoreapp2.1\ReverseAndExclude.pdb
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\netcoreapp2.1\ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\netcoreapp2.1\ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\netcoreapp2.1\ReverseAndExclude.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\netcoreapp2.1\ReverseAndExclude.dll
+C:\Users\UserE1\Desktop\C# Advanced\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\netcoreapp2.1\ReverseAndExclude.pdb
