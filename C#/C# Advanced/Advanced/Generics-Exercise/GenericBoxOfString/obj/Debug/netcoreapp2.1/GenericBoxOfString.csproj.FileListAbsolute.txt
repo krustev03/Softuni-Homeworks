@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Exercise\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.pdb

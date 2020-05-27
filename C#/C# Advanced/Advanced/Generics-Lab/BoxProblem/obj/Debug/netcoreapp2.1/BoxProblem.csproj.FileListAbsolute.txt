@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\bin\Debug\netcoreapp2.1\BoxProblem.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\bin\Debug\netcoreapp2.1\BoxProblem.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\bin\Debug\netcoreapp2.1\BoxProblem.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\bin\Debug\netcoreapp2.1\BoxProblem.dll
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\bin\Debug\netcoreapp2.1\BoxProblem.pdb
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.dll
+C:\Users\UserE1\Desktop\C# Advanced\Generics-Lab\BoxProblem\obj\Debug\netcoreapp2.1\BoxProblem.pdb
