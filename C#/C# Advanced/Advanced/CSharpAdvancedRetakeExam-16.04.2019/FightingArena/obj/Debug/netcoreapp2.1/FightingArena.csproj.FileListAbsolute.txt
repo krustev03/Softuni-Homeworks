@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

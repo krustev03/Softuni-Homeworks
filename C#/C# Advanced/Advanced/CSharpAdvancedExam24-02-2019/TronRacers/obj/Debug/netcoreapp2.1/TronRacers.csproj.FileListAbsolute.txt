@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.pdb
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedExam24-02-2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.pdb

@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\bin\Debug\netcoreapp2.1\FirstProblem.pdb
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvanced-Exam-23.06.2019\FirstProblem\obj\Debug\netcoreapp2.1\FirstProblem.pdb

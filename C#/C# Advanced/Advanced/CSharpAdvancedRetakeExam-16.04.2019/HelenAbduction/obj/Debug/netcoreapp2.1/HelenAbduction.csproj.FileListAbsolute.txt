@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\bin\Debug\netcoreapp2.1\HelenAbduction.deps.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\bin\Debug\netcoreapp2.1\HelenAbduction.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\bin\Debug\netcoreapp2.1\HelenAbduction.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\bin\Debug\netcoreapp2.1\HelenAbduction.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\bin\Debug\netcoreapp2.1\HelenAbduction.pdb
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.dll
+C:\Users\UserE1\Desktop\C# Advanced\CSharpAdvancedRetakeExam-16.04.2019\HelenAbduction\obj\Debug\netcoreapp2.1\HelenAbduction.pdb
