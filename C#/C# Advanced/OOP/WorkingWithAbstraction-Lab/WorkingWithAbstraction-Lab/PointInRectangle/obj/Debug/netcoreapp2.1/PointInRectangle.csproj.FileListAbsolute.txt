@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\UserE1\Desktop\C# OOP\WorkingWithAbstraction-L\WorkingWithAbstraction-Lab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb
