@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\bin\Debug\netcoreapp2.1\FerrariProblem.deps.json
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\bin\Debug\netcoreapp2.1\FerrariProblem.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\bin\Debug\netcoreapp2.1\FerrariProblem.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\bin\Debug\netcoreapp2.1\FerrariProblem.dll
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\bin\Debug\netcoreapp2.1\FerrariProblem.pdb
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\obj\Debug\netcoreapp2.1\FerrariProblem.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\obj\Debug\netcoreapp2.1\FerrariProblem.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\obj\Debug\netcoreapp2.1\FerrariProblem.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\obj\Debug\netcoreapp2.1\FerrariProblem.dll
+C:\Users\UserE1\Desktop\C# OOP\InterfacesAndAbstraction-Exercise\FerrariProblem\obj\Debug\netcoreapp2.1\FerrariProblem.pdb
