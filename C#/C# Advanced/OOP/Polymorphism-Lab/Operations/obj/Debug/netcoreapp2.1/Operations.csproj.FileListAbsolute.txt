@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\bin\Debug\netcoreapp2.1\Operations.deps.json
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\bin\Debug\netcoreapp2.1\Operations.dll
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\bin\Debug\netcoreapp2.1\Operations.pdb
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.dll
+C:\Users\UserE1\Desktop\C# OOP\Polymorphism\Operations\obj\Debug\netcoreapp2.1\Operations.pdb
