@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.deps.json
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.dll
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.pdb
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.dll
+C:\Users\UserE1\Desktop\C# OOP\Solid-Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.pdb
