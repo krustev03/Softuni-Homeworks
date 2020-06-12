@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\bin\Debug\netcoreapp2.1\FixingCodePartOne.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\bin\Debug\netcoreapp2.1\FixingCodePartOne.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\bin\Debug\netcoreapp2.1\FixingCodePartOne.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\bin\Debug\netcoreapp2.1\FixingCodePartOne.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\bin\Debug\netcoreapp2.1\FixingCodePartOne.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartOne\obj\Debug\netcoreapp2.1\FixingCodePartOne.pdb

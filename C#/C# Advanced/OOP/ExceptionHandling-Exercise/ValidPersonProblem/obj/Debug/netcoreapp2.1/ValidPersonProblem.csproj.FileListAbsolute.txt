@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\bin\Debug\netcoreapp2.1\ValidPersonProblem.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\bin\Debug\netcoreapp2.1\ValidPersonProblem.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\bin\Debug\netcoreapp2.1\ValidPersonProblem.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\bin\Debug\netcoreapp2.1\ValidPersonProblem.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\bin\Debug\netcoreapp2.1\ValidPersonProblem.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ValidPersonProblem\obj\Debug\netcoreapp2.1\ValidPersonProblem.pdb

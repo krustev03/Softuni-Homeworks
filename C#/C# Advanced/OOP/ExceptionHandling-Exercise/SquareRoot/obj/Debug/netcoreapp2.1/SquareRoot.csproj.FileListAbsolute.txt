@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.pdb

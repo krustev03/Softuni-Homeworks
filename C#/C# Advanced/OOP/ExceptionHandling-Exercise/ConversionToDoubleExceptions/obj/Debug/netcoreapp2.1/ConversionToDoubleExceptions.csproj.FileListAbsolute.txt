@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\bin\Debug\netcoreapp2.1\ConversionToDoubleExceptions.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\bin\Debug\netcoreapp2.1\ConversionToDoubleExceptions.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\bin\Debug\netcoreapp2.1\ConversionToDoubleExceptions.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\bin\Debug\netcoreapp2.1\ConversionToDoubleExceptions.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\bin\Debug\netcoreapp2.1\ConversionToDoubleExceptions.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\ConversionToDoubleExceptions\obj\Debug\netcoreapp2.1\ConversionToDoubleExceptions.pdb

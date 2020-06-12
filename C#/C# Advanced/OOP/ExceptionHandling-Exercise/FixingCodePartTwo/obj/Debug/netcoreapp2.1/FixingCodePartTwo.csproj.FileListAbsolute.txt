@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\bin\Debug\netcoreapp2.1\FixingCodePartTwo.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\bin\Debug\netcoreapp2.1\FixingCodePartTwo.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\bin\Debug\netcoreapp2.1\FixingCodePartTwo.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\bin\Debug\netcoreapp2.1\FixingCodePartTwo.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\bin\Debug\netcoreapp2.1\FixingCodePartTwo.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\FixingCodePartTwo\obj\Debug\netcoreapp2.1\FixingCodePartTwo.pdb

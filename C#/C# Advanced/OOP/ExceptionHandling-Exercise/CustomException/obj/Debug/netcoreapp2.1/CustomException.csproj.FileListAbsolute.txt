@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\bin\Debug\netcoreapp2.1\CustomException.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\bin\Debug\netcoreapp2.1\CustomException.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\bin\Debug\netcoreapp2.1\CustomException.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\bin\Debug\netcoreapp2.1\CustomException.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\bin\Debug\netcoreapp2.1\CustomException.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\obj\Debug\netcoreapp2.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\obj\Debug\netcoreapp2.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\obj\Debug\netcoreapp2.1\CustomException.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\obj\Debug\netcoreapp2.1\CustomException.dll
+C:\Users\UserE1\Desktop\C# OOP\ExceptionHandling-Exercise\CustomException\obj\Debug\netcoreapp2.1\CustomException.pdb
