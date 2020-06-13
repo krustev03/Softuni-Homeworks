@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-18.04.2019\UnitTests\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

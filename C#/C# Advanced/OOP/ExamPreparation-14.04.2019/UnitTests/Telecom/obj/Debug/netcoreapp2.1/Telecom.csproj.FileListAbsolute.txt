@@ -1,0 +1,11 @@
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\UserE1\Desktop\C# OOP\ExamPreparation-14.04.2019\UnitTests\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb
