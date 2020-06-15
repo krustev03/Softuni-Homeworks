@@ -1,0 +1,8 @@
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
