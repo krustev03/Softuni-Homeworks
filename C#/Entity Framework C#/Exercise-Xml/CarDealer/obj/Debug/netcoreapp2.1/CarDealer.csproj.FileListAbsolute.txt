@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

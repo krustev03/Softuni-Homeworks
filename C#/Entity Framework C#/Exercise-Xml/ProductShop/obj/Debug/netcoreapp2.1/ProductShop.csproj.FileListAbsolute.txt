@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\Exercise-Xml\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
