@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb

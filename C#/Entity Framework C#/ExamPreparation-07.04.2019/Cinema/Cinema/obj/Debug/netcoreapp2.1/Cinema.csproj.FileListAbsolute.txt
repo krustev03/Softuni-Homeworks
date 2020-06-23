@@ -1,0 +1,10 @@
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\UserE1\Desktop\Entity Framework C#\ExamPreparation-07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
