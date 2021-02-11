@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{7DC60E50-C948-4050-A2F3-226267D28D80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoops", "NestedLoops\NestedLoops.csproj", "{DBE2AD13-B9E2-4633-A072-F9AEE1D90328}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterativeNestedLoops", "IterativeNestedLoops\IterativeNestedLoops.csproj", "{E83088EF-127A-43C5-A256-8D13FDEA7514}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth", "Labirent\Labyrinth.csproj", "{B897798A-41A8-4766-83CD-370E0BE8EA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{926164AE-0E2E-46C9-908D-A157BB4CD35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoops-Simple", "NestedLoops-Simple\NestedLoops-Simple.csproj", "{F29CE163-DA41-4377-AE28-85DA69FD9DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC60E50-C948-4050-A2F3-226267D28D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC60E50-C948-4050-A2F3-226267D28D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC60E50-C948-4050-A2F3-226267D28D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC60E50-C948-4050-A2F3-226267D28D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE2AD13-B9E2-4633-A072-F9AEE1D90328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE2AD13-B9E2-4633-A072-F9AEE1D90328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE2AD13-B9E2-4633-A072-F9AEE1D90328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE2AD13-B9E2-4633-A072-F9AEE1D90328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83088EF-127A-43C5-A256-8D13FDEA7514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83088EF-127A-43C5-A256-8D13FDEA7514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83088EF-127A-43C5-A256-8D13FDEA7514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83088EF-127A-43C5-A256-8D13FDEA7514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B897798A-41A8-4766-83CD-370E0BE8EA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B897798A-41A8-4766-83CD-370E0BE8EA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B897798A-41A8-4766-83CD-370E0BE8EA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B897798A-41A8-4766-83CD-370E0BE8EA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926164AE-0E2E-46C9-908D-A157BB4CD35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926164AE-0E2E-46C9-908D-A157BB4CD35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926164AE-0E2E-46C9-908D-A157BB4CD35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926164AE-0E2E-46C9-908D-A157BB4CD35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29CE163-DA41-4377-AE28-85DA69FD9DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29CE163-DA41-4377-AE28-85DA69FD9DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29CE163-DA41-4377-AE28-85DA69FD9DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29CE163-DA41-4377-AE28-85DA69FD9DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A1B1E6-A2CC-4E0E-B19D-1D0FF3F7962E}
+	EndGlobalSection
+EndGlobal
